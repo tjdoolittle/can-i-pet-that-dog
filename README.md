@@ -4,6 +4,8 @@ A browser game based on the "Can I pet that dawg?" meme. Animals walk up to a wo
 
 **Play it:** https://tjdoolittle.github.io/can-i-pet-that-dog/
 
+![Gameplay: a hand petting a retriever at the fence, with a panda and a timber wolf waiting](screenshots/gameplay.png)
+
 ## How to play
 
 - **Pet a dog** by rubbing its head with your cursor until the ring fills, or by clicking it 3 times.
